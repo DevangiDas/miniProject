@@ -25,10 +25,3 @@ https://devangidas.github.io/miniProject/
 - Toggle switch for enabling/disabling sections.
 - Save button to save changes and proceed.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or inquiries, please contact John Doe at john.doe@example.com.
